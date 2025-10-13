@@ -1,6 +1,6 @@
 # Overview
 This is an top-down tanks shooter built in **Unreal Engine 5.2**.  
-This demo game is part of the course project from  
+This demo game is part of the course project from 
 [*Unreal Engine 5 C++ Game Development*](https://www.udemy.com/course/unrealcourse/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail-New_la.EN_cc.ROWMTA-B&utm_content=deal4584&utm_term=_._ag_98771201205_._ad_533999956744_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9062307_._pd__._&matchtype=&gclid=CjwKCAiA3KefBhByEiwAi2LDHLgH87FvdWkMW_e0MBBeh5i0Rx9w3m0aAv4hOjOP6bRuT1RpbFXMXxoCVywQAvD_BwE&couponCode=2021PM20),    
 After completing the course, I decided to recreate one of the games entirely from scratch to make sure I had fully understood the material. I also added several new features to challenge myself by solving new problems independently.
 
