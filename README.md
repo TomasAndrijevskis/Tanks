@@ -5,10 +5,14 @@ This demo game is part of the course project from
 After completing the course, I decided to recreate one of the games entirely from scratch to make sure I had fully understood the material. I also added several new features to challenge myself by solving new problems independently.
 
 ## New Features
-- **Second type of ammo** - the player now has two types of ammunition: small, fast bullets that deal less damage, and large, slower bullets that deal more damage.
+- **Second type of ammo** - the player now has two types of ammunition: small, fast bullets that deal less damage, and large, slower bullets that deal more damage. Additionally ammo now is limited.
 - **More enemies** - originally there was only 1 enemy type (static turret). I added two new enemy types - mobile tanks that differ in size and stats: larger tank has more health and deal greater damage, but moves slowlier and smaller tank which moves faster, but has less health and deal less damage .
 - **Loot system** - when enemy is defeated it drops 1 of 4 consumables: armor boost, damage boost, bullets or health. These items can also be found scattered around the maps.
 - **Breakable walls** - certain walls in the environment can now be destroyed by the player.
+
+## Demonstration
+[Link](https://youtu.be/3iTNGIRV1Rg)  
+
 ## Used Assets 
 All assets were provided by the course creators and cannot be shared publicly. 
 
